@@ -13,7 +13,7 @@
 	long duration;
 	int distance;
 
-	Servo myServo; // Creates a servo object for controlling the servo motor
+	Servo myServo; // Creates a servo object for controlling the servo
 
 
 //The setup function is called once at startup of the sketch
