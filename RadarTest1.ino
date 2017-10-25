@@ -1,5 +1,5 @@
 #include "Arduino.h"
-	//vemos eto!!!!!!
+	//xvemos esto!!!!!!
 	// Includes the Servo library
 	#include <Servo.h>
 
